@@ -1,0 +1,12 @@
+EXPORTS
+    SteamAPI_Init=steam_api64_orig.SteamAPI_Init
+    SteamAPI_Shutdown=steam_api64_orig.SteamAPI_Shutdown
+    SteamAPI_RestartAppIfNecessary=steam_api64_orig.SteamAPI_RestartAppIfNecessary
+    SteamAPI_GetHSteamUser=steam_api64_orig.SteamAPI_GetHSteamUser
+    SteamAPI_RunCallbacks=steam_api64_orig.SteamAPI_RunCallbacks
+    SteamAPI_RegisterCallback=steam_api64_orig.SteamAPI_RegisterCallback
+    SteamAPI_UnregisterCallback=steam_api64_orig.SteamAPI_UnregisterCallback
+    SteamAPI_RegisterCallResult=steam_api64_orig.SteamAPI_RegisterCallResult
+    SteamAPI_UnregisterCallResult=steam_api64_orig.SteamAPI_UnregisterCallResult
+    SteamInternal_FindOrCreateUserInterface=steam_api64_orig.SteamInternal_FindOrCreateUserInterface
+    SteamInternal_ContextInit=steam_api64_orig.SteamInternal_ContextInit
